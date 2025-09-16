@@ -1,14 +1,14 @@
 ** Qué hice? **
 
-- Creeé un archivo para cada clase.
-
 - Creé una clase Shape abstracta para heredar desde cada forma.
+
+- Puse cada clase en un archivo separado.
 
 - Creé una clase ShapeReport para llamar a cada forma y armar el reporte.
 
 - Unifiqué el idioma utilizado dentro del código a inglés.
 
-- Creeé un diccionario con las traducciones para unificar los mensajes por idioma y poder agregar nuevos fácilmente.
+- Creé un diccionario con las traducciones para unificar los mensajes por idioma y poder agregar nuevos fácilmente.
 
 - Agregué un proyecto API con Swagger muy rudimentario para poder consumir la clase ShaperReport utilizando un JSON sencillo.
 
