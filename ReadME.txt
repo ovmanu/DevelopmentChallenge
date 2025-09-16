@@ -1,6 +1,6 @@
-** QUÉ HICE **
+** Qué hice? **
 
-- Separé todas las clases en archivos separados.
+- Creeé un archivo para cada clase.
 
 - Creé una clase Shape abstracta para heredar desde cada forma.
 
